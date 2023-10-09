@@ -1,6 +1,6 @@
 # bug-free-broccoli
 
 
-## instructins
+## instructions
 
 add some instructions
